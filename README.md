@@ -2,9 +2,6 @@
 
 This folder contains a total of 710 WISE L1b folded light curves from a modified white dwarf sample.
 
-## Usage Recommendations
-For catalog purposes, it is advisable to focus on sources with more than 100 data points in either band.
-
 ## Source Selection
 The white dwarf candidates were sourced from the **Gaia DR2** white dwarf candidate catalog (Gentile Fusillo+, 2019) using the following criteria:
 

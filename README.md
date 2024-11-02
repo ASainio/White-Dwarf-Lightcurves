@@ -63,11 +63,11 @@ The white dwarf candidates were sourced from the **Gaia DR2** white dwarf candid
 ## Filtering and Periodogram Analysis
 
 ### Position Filtering
-- Each data point is cross-checked against the source’s expected position based on Gaia proper motions, with generous 1 arcsecond circle.
+- Each data point is cross-checked against the source’s expected position based on Gaia proper motions, with generous 1 arcsecond radius.
 - **Top Panels**: Raw data is plotted without additional filters.
 
 ### Sigma Clipping for Periodogram
-- Data undergoes sigma clipping with parameters: upper = 3, lower = 3.
+- Data was sigma clipped for periodogram with parameters: upper = 3, lower = 3.
 
 ### Periodogram Settings
 - **Period Adjustments**:

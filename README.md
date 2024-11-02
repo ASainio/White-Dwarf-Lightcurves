@@ -56,7 +56,7 @@ The white dwarf candidates were sourced from the **Gaia DR2** white dwarf candid
      )
      ```
    - **Finaly**:
-     - Unique sources were selected.
+     - Duplicated sources were removed totalling 2037 sources for input.
      - The search radius was adjusted based on Gaia proper motions, with an additional two years of space. Minimum search radius was set to 5 arcseconds for low PM sources.
      - Sources with fewer than 50 data points were discarded.
 
@@ -71,7 +71,7 @@ The white dwarf candidates were sourced from the **Gaia DR2** white dwarf candid
 
 ### Periodogram Settings
 - **Period Adjustments**:
-  - If the period is close to the WISE interval (~0.066 days) or its fractions, the period is recalculated to avoid aliasing. However aliasing might still occure in some cases.
+  - If the periods close to the WISE interval (~0.066 days) or its fractions were recalculated to avoid aliasing. However aliasing might still occure in some cases.
   - Aliasing fractions are indicated with gray triangles in the **Best Period** figure.
 - **Period Range**:
   - Minimum period: 0.5 hours

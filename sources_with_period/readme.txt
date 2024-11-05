@@ -1,4 +1,4 @@
-In this folder are lightcurves of periodic candidates.
+In this folder are 53 W1 and W2 lightcurves of periodic candidates from modified WISE White Dwarf Sample.
 
 Filtering:
 - Removed sources that had aliasing issues with cadence.

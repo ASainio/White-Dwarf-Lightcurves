@@ -24,9 +24,9 @@ The white dwarf candidates were sourced from the **Gaia DR2** white dwarf candid
      AND (cc_flags NOT LIKE '_P__')
      AND ab_flags = '00'
      AND (
-         (w1mpro > 14.5 AND w1snr > 15)
+         (w1mpro < 14.5 AND w1snr > 15)
          OR
-         (w2mpro > 14.5 AND w2snr > 15)
+         (w2mpro < 14.5 AND w2snr > 15)
      )
      ```
    Resulting in 835 sources.
@@ -47,9 +47,9 @@ The white dwarf candidates were sourced from the **Gaia DR2** white dwarf candid
      AND qi_fact > 0.5
      AND moon_masked = 0
      AND (
-         (w1mpro > 14.5 AND w1snr > 15)
+         (w1mpro < 14.5 AND w1snr > 15)
          OR
-         (w2mpro > 14.5 AND w2snr > 15)
+         (w2mpro < 14.5 AND w2snr > 15)
      )
      ```
    - **Finaly**:

@@ -1,7 +1,7 @@
 # WISE L1b Folded Light Curves of Modified White Dwarf Sample
 
-###THIS VERSION IS OF CATALOG IS DEPRECATED. PLEASE USE LATER VERSION https://github.com/ASainio/Gaia-eDR3-WISE-Light-Curve-Figures.
-###LAST VERSION WILL BE RELEASED 2/2024 WITH LAST NEOWISE EPOCHS.
+### THIS VERSION IS OF CATALOG IS DEPRECATED. PLEASE USE LATER VERSION https://github.com/ASainio/Gaia-eDR3-WISE-Light-Curve-Figures.
+### LAST VERSION WILL BE RELEASED 2/2024 WITH LAST NEOWISE EPOCHS.
 
 This folder contains a total of 710 WISE L1b folded light curves from a modified white dwarf sample.
 
